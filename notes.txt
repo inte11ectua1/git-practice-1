@@ -1,4 +1,4 @@
-Project: Teamwork practice
+Project: person3 version
 Task 1: clone
 Task 1: clone
 Task 2: commit
