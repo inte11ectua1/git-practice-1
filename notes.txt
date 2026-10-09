@@ -1,4 +1,4 @@
-Project: person1 version
+Project: resolved version
 Task 1: clone
 Task 1: clone
 Task 2: commit
