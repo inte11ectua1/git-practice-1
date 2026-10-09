@@ -1,3 +1,2 @@
-a = 10
-b = 2
-print(a/b)
+# Version 1
+print(10 / 2)
