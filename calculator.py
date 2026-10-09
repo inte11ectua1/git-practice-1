@@ -1,2 +1,2 @@
-# Version 23
+# Version 24
 print(10 / 0)
