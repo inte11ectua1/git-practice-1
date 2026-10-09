@@ -1,2 +1,2 @@
-# Version 32
-print(10 / 0)
+# Fixed version
+print(10 / 2)
