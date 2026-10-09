@@ -1,2 +1,2 @@
-# Version 15
-print(10 / 2)
+# Version 16
+print(10 / 0)
